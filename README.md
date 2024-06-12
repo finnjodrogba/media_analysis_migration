@@ -4,9 +4,15 @@ Sentiment analysis
 
 ## Installation
 
+Clone github directory
+
+With terminal/command line go to the directory
+
 Creating with virtual env
 
 here for Mac, assuming virtual environment is named ba_fmitt
+
+using python3.11 (3.12 does not work)
 
 ```bash
 python3.11 -m venv ba_fmitt
